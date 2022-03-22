@@ -1,0 +1,8 @@
+Tasks:
+1. Improve [if] the original problem statement
+	- Code marketing
+	- Implementation should be focused more
+2. Code compile
+3. Understand the code, the algorithm involved
+4. PPT of the above showing results in a custom manner <what sir wishes for>
+5. Video of some sort
